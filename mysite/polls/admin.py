@@ -4,6 +4,6 @@ from django.contrib import admin
 
 from .models import Choice, Question
 
-admin.site.register(Question)
+admin.site.register(Question) #include model to be added to the admin panel
 admin.site.register(Choice)
 
