@@ -7,7 +7,12 @@ def index(request):
     return HttpResponse("Hello World!")
 
 def detail(requst, question_id):
-    return HttpResponse("You're looking at questions %s." % question_id)
+    #response declared
+    #return HttpResponse("You're looking at questions %s." % question_id)
+     
+    #response from variable
+    response = "You're looking at questions %s from new format."
+    return HttpResponse(response % question_id)
 
 def results(requst, question_id):
     response = "You're looking at the result of the question %s."
