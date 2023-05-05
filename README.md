@@ -9,11 +9,11 @@ Installing Django
 
 To install Django, you can use the following command in a virtual environment:
 
-Create a virtual environment:
+**1. Create a virtual environment:**
 
 `python -m venv myenv` (where *myenv* is the name of your virtual environment)
 
-**Installl Django**
+**2. Installl Django**
 
 `pip install django`
 
@@ -23,7 +23,7 @@ You can verify that Django is installed correctly by running the following comma
 
 This should print the version number of Django that you have installed.
 
-**Creating a Django Project**
+**3. Creating a Django Project**
 
 To create a new Django project, you can use the following command:
 
@@ -31,7 +31,7 @@ To create a new Django project, you can use the following command:
 
 This will create a new directory called myproject with some default files and directories.
 
-**Running the Development Server**
+**4. Running the Development Server**
 
 To start the development server, navigate to the directory where your Django project is located and run the following command:
 
