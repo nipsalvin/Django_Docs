@@ -43,6 +43,6 @@ This will start the development server at `http://127.0.0.1:8000/`.
 
 Now that you have Django up and running, you can start learning about the various components of the framework. The Django documentation is an excellent resource that provides detailed information about everything from views and templates to models and forms.
 
-<u>Conclusion</u>
+<u>**Conclusion**</u>
 
 Django is a powerful and flexible framework for building web applications in Python. With the help of the Django documentation, you can quickly learn how to create your own web applications and contribute to the development of the framework. Good luck and happy coding!
