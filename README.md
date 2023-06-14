@@ -1,6 +1,6 @@
 # Django_Docs
 
-Welcome to the Django documentation! This is a comprehensive guide that will help you get started with building web applications using the Django framework.
+This is a comprehensive guide that I went through get started with building web applications using the Django framework.
 
 **Prerequisites**
 
